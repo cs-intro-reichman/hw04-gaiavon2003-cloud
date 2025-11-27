@@ -27,7 +27,7 @@ public class Primes {
             }
             double var5 = (double) var1 / (double) var0 * 100.0;
             int var4 = (int) Math.round(var5);
-            System.out.println(" There are " + var1 + " primes between 2 and " + var0 + " (" + var4 + "% are primes)");
+            System.out.println("There are " + var1 + " primes between 2 and " + var0 + " (" + var4 + "% are primes)");
 
         }
     }
